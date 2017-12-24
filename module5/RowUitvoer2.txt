@@ -1,0 +1,7 @@
+De eerste rij is:
+2345 523 24 352 542 232 2343 9546 3934 345 436 45 452 2 4 1920 
+Het maximum van deze rij is 9546
+De tweede rij is:
+234 646 2543 124 123 12 1201 23458 546 36 2365 234 643 56 233 6732 2334 3425 11 13 
+Het maximum van deze rij is 23458
+De tweede rij heeft het grootste maximum

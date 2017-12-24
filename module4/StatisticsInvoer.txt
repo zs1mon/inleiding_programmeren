@@ -1,0 +1,338 @@
+1999
+I
+Willem Jan van Steen     	 9859  77
+Guillaume Kielmann       	 5264  77
+Guillaume Bos            	 8200   6
+Matty Klop               	 9066  42
+Atze Klop                	 3318  45
+Sven Kielmann            	 1160  63
+Wartie Hijma             	 1904  65
+Matty Evers              	 2516  100
+Matty Bos                	 2941  99
+Pieter van der Ploeg     	 8873  80
+Jan Willem van Zeist     	 3934  95
+Thilo van Steen          	 9665  61
+Wan van Raamsdonk        	 1771  86
+Henri Fokkink            	 7484  59
+Jan Willem Evers         	 9709  82
+=W
+Guillaume Zeggers        	  290  47
+Natalia van Raamsdonk    	 2751  55
+Wartie Zeggers           	 3079  92
+Atze Swarttouw           	 9474  30
+Rene Pierre              	 2125  62
+Pieter van Mantgem       	 3023  67
+Jan Willem Hijma         	 7441  86
+=BWI
+Rene Zeggers             	 7679   8
+Matty van Mantgem        	 7431  44
+Sven van Raamsdonk       	 7248  46
+Eline Pierre             	 5731  86
+Maarten Kielmann         	 7162  59
+Atze Zeggers             	 7065  72
+Eline van Mantgem        	  830  78
+Natalia van Steen        	 6321  49
+Frank van Raamsdonk      	 1380  31
+Pieter Bos               	 9639  94
+Andy Zeggers             	 5232  78
+Andy van Raamsdonk       	 1256  69
+Eline Gude               	 4101  40
+Matty Fokkink            	 9839  89
+Natalia Hijma            	  203  11
+Henri Bos                	 6728  66
+Guillaume van der Ploeg  	 9998  48
+Jan Willem van Steen     	  760  79
+Matty Pierre             	  337  96
+Wan Gude                 	 3811  39
+=AI
+Sven Swarttouw           	 2604  73
+Eline van Raamsdonk      	 9771  60
+Herbert van der Ploeg    	 9325  41
+Eline Hijma              	  430  23
+Pieter Hijma             	 8203  65
+Eline Silvis Cividjian   	 2700  79
+=ECTR
+Frank Swarttouw          	 6484  49
+Wan Hijma                	 9845  36
+Herbert Silvis Cividjian 	 1544  84
+Natalia Kielmann         	  646  21
+-2000
+I
+Atze van Raamsdonk       	 3297  58
+Atze Gude                	 6885  77
+Guillaume Silvis Cividjian	 6472  58
+Sven Zeggers             	 4531  70
+Matty van der Ploeg      	 6912  94
+Herbert Klop             	  570  32
+Natalia Pierre           	 5187  77
+Wartie Gude              	 9527  90
+Willem Jan Gude          	  220  24
+=W
+Wartie van Mantgem       	 7924  33
+Natalia Zeggers          	 4813  82
+Willem Jan Klop          	 9051   5
+Rene Hijma               	 5089  65
+Wartie Silvis Cividjian  	 7254  42
+Thilo Zeggers            	 4681  85
+Frank Kielmann           	 5795  96
+Thilo Kielmann           	 1169  98
+Wan Kielmann             	 6610  86
+Frank Klop               	 3197  12
+Guillaume van Mantgem    	 7586  42
+Wan Klop                 	 1803   4
+=BWI
+Guillaume Klop           	 4239  64
+Rene van Mantgem         	 5378  71
+Femke Evers              	 3650  93
+Atze Evers               	 3526  70
+Willem Jan van Zeist     	 2803  76
+Natalia Bos              	  265  64
+Sven van der Ploeg       	 8128  82
+Herbert Fokkink          	 7056  94
+Eline Kielmann           	 5069  85
+Frank Pierre             	 1398  81
+=AI
+Thilo Gude               	 9275  11
+Henri van Mantgem        	 3363  79
+Pieter Swarttouw         	 6934  84
+Wartie van Raamsdonk     	 3942  99
+Maarten Hijma            	 5649  88
+Herbert van Zeist        	 3546  69
+Rene Klop                	  665  91
+Herbert Gude             	 3836  75
+=ECTR
+Henri Swarttouw          	 9656  99
+Thilo Klop               	 6375  95
+Eline Bos                	 5005  71
+Pieter Fokkink           	 8358  52
+Herbert Swarttouw        	 1927  45
+Frank Silvis Cividjian   	 6136  85
+Maarten van Steen        	  114  44
+Frank van Steen          	 6991  44
+-2001
+I
+Henri van Steen          	 1355  53
+Willem Jan Fokkink       	 2576  96
+Jan Willem van Raamsdonk 	 5214  57
+Henri Silvis Cividjian   	 5479  68
+Guillaume van Raamsdonk  	 4606  64
+Femke Hijma              	 3671  66
+Femke Pierre             	 1620  22
+Jan Willem Kielmann      	 9179  40
+Thilo van der Ploeg      	10042  22
+Willem Jan Kielmann      	  896  94
+Frank Bos                	  939  71
+Pieter Zeggers           	 1200  74
+Femke van Raamsdonk      	 1298  54
+Femke Fokkink            	 1251  68
+Rene Kielmann            	 5350  74
+Matty Gude               	 7894  11
+=W
+Andy Klop                	 9225  54
+Herbert van Steen        	 2448  12
+Wartie van Zeist         	  641  81
+Maarten Evers            	 7798  99
+Rene van Steen           	 9898  76
+Pieter Pierre            	 1744  93
+Herbert Hijma            	  502   9
+Willem Jan Bos           	 6923  91
+=BWI
+Wan Silvis Cividjian     	 8941  30
+Rene van Zeist           	  638  94
+Frank van der Ploeg      	 1767  30
+Natalia van der Ploeg    	 8609  15
+Natalia Swarttouw        	 9050  58
+Wan van Zeist            	 8574   7
+Rene van der Ploeg       	 4785  17
+Henri Pierre             	 9752  98
+Natalia van Zeist        	 3851   3
+Guillaume van Steen      	 5855   5
+Sven Silvis Cividjian    	 1539  88
+Jan Willem Swarttouw     	 3911  66
+Atze Kielmann            	 8677  39
+Jan Willem Pierre        	 3776  46
+Thilo van Raamsdonk      	 5199  69
+Eline Evers              	 6338  25
+Willem Jan van Mantgem   	 6881  76
+=AI
+Henri Zeggers            	 8649  58
+Natalia Silvis Cividjian 	  375  39
+Maarten Pierre           	  118  44
+Guillaume Swarttouw      	 1870  14
+Maarten Fokkink          	  758  88
+=ECTR
+Femke van Zeist          	 6632  46
+Eline Swarttouw          	 4835  15
+Femke van Steen          	 4646  62
+Wan Zeggers              	  736  94
+Wartie Kielmann          	 7609  81
+Wartie Fokkink           	 3774  38
+Pieter Evers             	 9168  88
+Natalia Klop             	 8796  55
+Matty Silvis Cividjian   	  305  46
+-2002
+I
+Eline van Steen          	 7817  11
+Andy van Steen           	 9212  51
+Frank van Zeist          	  233  27
+Rene Swarttouw           	 5695  68
+Wan Bos                  	 7039  29
+Eline van der Ploeg      	 4410  99
+Wartie van der Ploeg     	 2526  20
+Sven Bos                 	 4694  98
+Wartie Swarttouw         	 5371  70
+Thilo van Zeist          	10009  77
+Guillaume Fokkink        	 4125  86
+Atze Bos                 	 4227  97
+Pieter Silvis Cividjian  	 9491  15
+Sven Evers               	 6994  41
+=W
+Herbert Kielmann         	 2135  99
+Andy van Mantgem         	 8033  49
+Guillaume Gude           	 5356  52
+Herbert Bos              	 1435  47
+Pieter Gude              	 9460  36
+Jan Willem van der Ploeg 	 8403  25
+Wan van Mantgem          	 9672  68
+=BWI
+Pieter Kielmann          	 6857  44
+Wartie Bos               	 1200  12
+Maarten Swarttouw        	 6726  75
+Thilo Pierre             	   99  54
+Eline van Zeist          	 7003  62
+Sven van Steen           	 5873  68
+Matty Zeggers            	 7349  68
+Matty Swarttouw          	 9263  60
+Frank Hijma              	 8102  85
+Andy van der Ploeg       	 9334  89
+Matty Kielmann           	 4313  60
+Willem Jan Silvis Cividjian	 6846  38
+Pieter van Raamsdonk     	 8035  96
+Thilo van Mantgem        	 6958  48
+Jan Willem Gude          	  264  66
+Wan van Steen            	 4238  46
+Rene Gude                	 1223  95
+Wartie Klop              	 9922  75
+Andy Fokkink             	  116  78
+Willem Jan Pierre        	 8998  20
+Femke Swarttouw          	 8028  96
+=AI
+Matty van Steen          	 9702  40
+Thilo Silvis Cividjian   	 5553  42
+Herbert van Raamsdonk    	 6867  90
+Wartie Evers             	 2086  81
+Jan Willem Bos           	 1566  92
+Maarten van Mantgem      	 8960  92
+Sven van Zeist           	 8629  74
+Matty van Raamsdonk      	  496  41
+Willem Jan Evers         	 1853  11
+Guillaume van Zeist      	 9729  62
+Maarten Klop             	 8653  74
+Henri van der Ploeg      	 6755  39
+=ECTR
+Natalia Fokkink          	 2451  69
+Maarten Bos              	 4018  69
+-2003
+I
+Sven Fokkink             	 2631   0
+Atze van der Ploeg       	 9494  72
+Jan Willem Silvis Cividjian	 2370  49
+Matty van Zeist          	 2505  15
+Natalia Evers            	 3703  11
+Wan Evers                	 1960  82
+Willem Jan Swarttouw     	 8376  62
+Henri van Raamsdonk      	 4487   6
+Femke Zeggers            	 5750  49
+Andy Gude                	 9612  60
+=W
+Rene Evers               	 3479  55
+Henri Kielmann           	 8938  15
+Thilo Evers              	 3546  59
+Eline Fokkink            	 4481  59
+=BWI
+Femke Klop               	 3597  94
+Jan Willem Fokkink       	 9488  86
+Sven Pierre              	 9272  34
+Henri Hijma              	 1479  60
+Wan Fokkink              	 2274  64
+Atze Silvis Cividjian    	 7957  73
+Wan Pierre               	 7183  77
+Wan van der Ploeg        	 3437  76
+Pieter Klop              	 2589  39
+Sven Hijma               	 9217   6
+Femke Kielmann           	 4233  96
+Guillaume Hijma          	 3776  64
+Sven Klop                	 4925  74
+Herbert Evers            	 3725  26
+Natalia Gude             	 7127  63
+Eline Klop               	 7229  82
+Frank Zeggers            	 4128  37
+Maarten van Raamsdonk    	 6167  62
+Thilo Hijma              	 2713  50
+Atze Pierre              	 6308  42
+=AI
+Natalia van Mantgem      	 8733  39
+Guillaume Pierre         	 2432  72
+Herbert Zeggers          	 6430  98
+Femke Gude               	 6545  86
+Rene Silvis Cividjian    	 3983  12
+Maarten Gude             	 5871  41
+Maarten van Zeist        	 5244  77
+Jan Willem Zeggers       	  817  94
+Herbert van Mantgem      	 6312  54
+Andy van Zeist           	 9878  81
+Willem Jan Zeggers       	 4267  23
+Atze Fokkink             	 8495  16
+Sven Gude                	 5169  72
+Willem Jan Hijma         	 7296  69
+Andy Kielmann            	 3139  59
+Wartie Pierre            	 6272  24
+Rene van Raamsdonk       	 7022  19
+=ECTR
+Femke van der Ploeg      	 5885  62
+Willem Jan van der Ploeg 	 5329  95
+Andy Silvis Cividjian    	 8772  91
+Andy Hijma               	 2807  53
+Wartie van Steen         	 8842  75
+Thilo Fokkink            	 9452  14
+Atze van Steen           	 2439  84
+Matty Hijma              	 3820  48
+Thilo Swarttouw          	 1673  55
+Maarten Zeggers          	 2691  91
+Guillaume Evers          	 9360  20
+Frank Evers              	 9428  86
+Femke van Mantgem        	 1223  71
+Maarten van der Ploeg    	 7884  50
+Femke Bos                	 8596  83
+Henri Klop               	  436  74
+Pieter van Steen         	 3214  29
+-2004
+I
+Willem Jan van Raamsdonk 	 9315  32
+Wan Swarttouw            	 6669  53
+Atze van Mantgem         	 7492  50
+Herbert Pierre           	 6796  80
+Henri Evers              	 2711  91
+Andy Bos                 	 1272  93
+=W
+Henri van Zeist          	 5752  63
+Thilo Bos                	 2352  65
+Atze Hijma               	 7350  97
+Maarten Silvis Cividjian 	 4722  70
+Frank van Mantgem        	 2680  50
+Eline Zeggers            	  664  23
+Rene Fokkink             	 4355  56
+Jan Willem Klop          	 3454   3
+Pieter van Zeist         	 5529  38
+Frank Gude               	 6238  60
+Femke Silvis Cividjian   	 6986  56
+Jan Willem van Mantgem   	 1074  90
+Rene Bos                 	 5308  51
+=BWI
+Atze van Zeist           	 1502  78
+Andy Evers               	 4326  11
+Andy Swarttouw           	 1058  40
+Henri Gude               	 9459  71
+Andy Pierre              	 8441  71
+Frank Fokkink            	  335  49
+Sven van Mantgem         	 1786  93

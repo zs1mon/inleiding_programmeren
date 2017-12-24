@@ -1,0 +1,7 @@
+De eerste rij is:
+13 12 11 10 9 8 7 6 5 4 3 2 1 
+Het maximum van deze rij is 13
+De tweede rij is:
+17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 
+Het maximum van deze rij is 17
+De tweede rij heeft het grootste maximum
